@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SamiSayem13
 - 👀 I’m interested in ...proggraming
-- 🌱 I’m currently learning ...c
+- 🌱 I’m currently learning ...c an c++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...on my email
 
